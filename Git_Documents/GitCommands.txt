@@ -1,0 +1,4 @@
+1. git init --> To Create/Initalize empty Repository
+2. git status --> to check what are the modified files to push for staging area
+3. git add (foldername[or]directory\filename)
+4. git rm --cached (foldername[or]directory\filename)
